@@ -1,0 +1,1 @@
+You're supposed to ener into the development log on what all u did today briefly. The log is name dev_log.hexa_matrix in the root. THNX. U can delete this file.
